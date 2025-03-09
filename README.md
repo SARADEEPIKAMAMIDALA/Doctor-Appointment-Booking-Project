@@ -7,20 +7,27 @@ Implemented real-time availability, responsive UI (Tailwind CSS, React), and opt
  Key Features  
 
 Focusing on User Benefits:
+
 Effortless & Secure Access:
 Log in confidently with our secure system, ensuring your data is protected every step of the way.
+
 Book Appointments :
 Find the perfect appointment time with our easy-to-use calendar. See real-time doctor availability and book instantly.
+
 Stay Informed Instantly:
 Get immediate updates and confirmations with helpful notifications, so you're always in the loop.
+
 Seamless & Safe Payments:
 Pay for your appointments quickly and securely with our trusted payment system." (Replaces Razorpay mention)
+
 Enjoy a Smooth & User-Friendly Experience:
 Navigate our platform with ease, thanks to a clean and intuitive design that works perfectly on any device.
 
 Focusing on Admin Benefits:
+
 Complete Control at Your Fingertips:
 Manage doctors, patients, and appointments effortlessly from one central dashboard.
+
 Streamlined Operations:
 Efficiently manage data and keep everything running smoothly with our optimized system.
 
