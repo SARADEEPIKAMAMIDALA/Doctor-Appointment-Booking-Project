@@ -1,4 +1,4 @@
-# Doctor-Appointment-Booking-Project
+
 # Doctor Appointment Booking App  
 
 A full-stack MERN application designed to streamline doctor appointment scheduling. It offers seamless user and doctor logins, real-time appointment booking, secure payments, and an admin dashboard for efficient management.  
