@@ -5,13 +5,13 @@ A full-stack MERN application designed to streamline doctor appointment scheduli
 
  Key Features  
 
-ser & Doctor Authentication:** Secure login system using JWT authentication.  
-Appointment Scheduling:** Real-time availability with an intuitive date and time selection interface.  
+User & Doctor Authentication: Secure login system using JWT authentication.  
+Appointment Scheduling: Real-time availability with an intuitive date and time selection interface.  
 Admin Dashboard: Complete control over users, doctors, and appointments with full CRUD functionality.  
-Secure Payments:** Integrated Razorpay for hassle-free transactions.  
-Responsive & Intuitive UI:** Built with React and Tailwind CSS for an optimized user experience.  
+Secure Payments:Integrated Razorpay for hassle-free transactions.  
+Responsive & Intuitive UI:Built with React and Tailwind CSS for an optimized user experience.  
 Real-Time Notifications: Toast alerts for instant feedback.  
 Efficient API Management: Optimized data fetching with Axios and state handling via Context API.  
 
-This app ensures a smooth and secure doctor appointment booking experience for both patients and medical professionals. 
+This Web Application ensures a smooth and secure doctor appointment booking experience for both patients and medical professionals. 
 
